@@ -7,3 +7,4 @@ print(f"Sua cidade é {city}")
 print(f"Seu gênero é {gender}")
 
 print("teste")
+print("Seguem os dados")
